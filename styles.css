@@ -248,7 +248,7 @@ body {
 
 /* App mobile styles */
 
-@media screen and (max-width: 1440px){
+@media screen and (max-width: 768px){
   header {
     margin-top: 2rem;
   }
