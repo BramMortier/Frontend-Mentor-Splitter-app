@@ -248,6 +248,12 @@ body {
 
 /* App mobile styles */
 
+@media screen and (max-width: 1600px) {
+  .app-container {
+    width: 80%;
+  }
+}
+
 @media screen and (max-width: 768px){
   header {
     margin-top: 2rem;
